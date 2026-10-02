@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>You're invited to Suspect Files</title>
+<meta name="description" content="A friend invited you to Suspect Files, a detective puzzle game for Android.">
+<meta name="robots" content="noindex">
+<style>
+  :root { --text:#ece9f5; --muted:#b3adc4; --accent:#ffc83d; --card:#1a1538; --line:#2e2a52; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:linear-gradient(#1b1245,#0c0a1f) fixed; color:var(--text); font:17px/1.7 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans Arabic",Tahoma,sans-serif; }
+  main { max-width:520px; margin:0 auto; padding:48px 16px 64px; text-align:center; }
+  img { width:112px; height:112px; border-radius:26px; }
+  h1 { font-size:28px; margin:16px 0 8px; }
+  .muted { color:var(--muted); }
+  .code { background:var(--card); border:2px dashed var(--accent); border-radius:16px; padding:14px; margin:24px 0 8px; font:700 30px/1.2 ui-monospace,Consolas,monospace; letter-spacing:4px; color:var(--accent); word-break:break-all; }
+  .btn { display:block; background:var(--accent); color:#1a1033; font-weight:800; text-decoration:none; border-radius:14px; padding:14px 18px; margin:12px 0; }
+  .btn.alt { background:transparent; color:var(--accent); border:1px solid var(--line); }
+  ol { text-align:start; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px 20px 16px 40px; }
+</style>
+</head>
+<body>
+<main>
+  <img src="../icon.png" alt="Suspect Files icon">
+  <h1>You're invited to Suspect Files</h1>
+  <p class="muted">A detective puzzle game. Enter this code after you install to get a welcome bonus.</p>
+  <div class="code" id="code">······</div>
+  <a class="btn" id="open" href="#">Open in the game</a>
+  <a class="btn alt" href="https://play.google.com/store/apps/details?id=com.krmstudio.suspect_files">Get it on Google Play</a>
+  <ol>
+    <li>Install Suspect Files from Google Play.</li>
+    <li>Tap <strong>Invite</strong> on the map.</li>
+    <li>Enter the code above.</li>
+  </ol>
+<script>
+  // The code is the ?code= value (or the last path/hash segment). Letters and digits only.
+  var q = new URLSearchParams(location.search).get('code') || location.hash.replace('#', '') || '';
+  var code = q.toUpperCase().replace(/[^A-Z0-9]/g, '').slice(0, 12);
+  if (code) {
+    document.getElementById('code').textContent = code;
+    document.getElementById('open').href = 'suspectfiles://invite?code=' + code;
+  } else {
+    document.getElementById('code').textContent = 'No code';
+    document.getElementById('open').style.display = 'none';
+  }
+</script>
+</main>
+</body>
+</html>

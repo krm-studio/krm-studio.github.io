@@ -4,10 +4,63 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>KRM Studio</title>
-<meta http-equiv="refresh" content="0; url=enjazaty/">
-<link rel="canonical" href="https://krm-studio.github.io/enjazaty/">
+<meta name="description" content="KRM Studio makes mobile games and apps: Suspect Files, a detective puzzle game, and Enjazaty, a tasks and habits app.">
+<link rel="icon" href="suspect-files/icon.png">
+<style>
+  :root { --text:#1f1a26; --muted:#6b6475; --accent:#c4352f; --bg:#f6f3f8; --card:#ffffff; --line:#e6e0ec; }
+  @media (prefers-color-scheme: dark) { :root { --text:#ece9f5; --muted:#b3adc4; --accent:#f2a33a; --bg:#15131c; --card:#1f1c29; --line:#2e2a3a; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:17px/1.6 system-ui, "Segoe UI", Roboto, Tahoma, sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:48px 16px 64px; }
+  header { text-align:center; margin-bottom:32px; }
+  h1 { margin:0; font-size:36px; letter-spacing:.5px; }
+  header p { margin:6px 0 0; color:var(--muted); }
+  .app { display:flex; gap:18px; align-items:flex-start; background:var(--card); border:1px solid var(--line); border-radius:20px; padding:20px; margin:16px 0; }
+  .app img { width:84px; height:84px; border-radius:20px; flex:none; }
+  .app h2 { margin:0 0 4px; font-size:22px; }
+  .app p { margin:0 0 10px; color:var(--muted); }
+  .links { display:flex; flex-wrap:wrap; gap:8px 18px; font-size:15px; }
+  a { color:var(--accent); font-weight:600; text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  footer { margin-top:36px; text-align:center; color:var(--muted); font-size:14px; }
+  @media (max-width:480px) { .app { flex-direction:column; align-items:center; text-align:center; } .links { justify-content:center; } }
+</style>
 </head>
 <body>
-<p>KRM Studio — <a href="enjazaty/">Enjazaty انجازاتي</a></p>
+<main>
+  <header>
+    <h1>KRM Studio</h1>
+    <p>Mobile games and apps for Android.</p>
+  </header>
+
+  <section class="app">
+    <img src="suspect-files/icon.png" alt="Suspect Files icon">
+    <div>
+      <h2>Suspect Files: Detective Game</h2>
+      <p>Four suspects, one victim, one liar. 81 hand-written mystery cases in 7 languages.</p>
+      <div class="links">
+        <a href="https://play.google.com/store/apps/details?id=com.krmstudio.suspect_files">Google Play</a>
+        <a href="suspect-files/">About the game</a>
+        <a href="suspect-files/privacy.html">Privacy policy</a>
+        <a href="suspect-files/delete-account.html">Delete account</a>
+        <a href="mailto:supportkrmstudio@gmail.com">Support</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="app">
+    <img src="enjazaty/icon.png" alt="Enjazaty icon">
+    <div>
+      <h2>Enjazaty · <span lang="ar">انجازاتي</span></h2>
+      <p>Tasks, habits, journal and mood in one place.</p>
+      <div class="links">
+        <a href="enjazaty/">About the app</a>
+        <a href="enjazaty/privacy.html">Privacy policy</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>© 2026 KRM Studio</footer>
+</main>
 </body>
 </html>

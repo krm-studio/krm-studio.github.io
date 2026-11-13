@@ -1,18 +1,42 @@
 {
   "_note": "Play Store listing per language (title <=30, short <=80, full <=4000) and the 8 screenshot captions (head, sub). Non-English is AI-written: have native speakers review. Checked by store_screens/check_listing.dart.",
   "en": {
-    "title": "Town FC: Football Club Tycoon",
-    "short": "Own a football club: build your town, sign stars and win the league. Offline!",
-    "full": "Own a football club and build a dynasty, from a village pitch to the Elite League.\n\nTown FC: Football Club Tycoon puts you in the owner's chair. Grow the town around your stadium, run the money, hire the head coach, sign players and lead your club through a full 38-matchday season in a 20-club league. Every decision shows on the pitch.\n\n⚽ WATCH EVERY MATCH LIVE\nFollow your team minute by minute on a live pitch. Make up to 5 substitutions, react to tired legs and take the key moments yourself.\n\n🏟️ BUILD YOUR TOWN AND STADIUM\nUpgrade the stadium, training ground, youth academy, medical centre, club shop, hotel, fan zone and museum. Bigger crowds, better players, more income.\n\n📋 YOUR LINEUP, YOUR TACTICS\nChoose the formation, pressing and captain, pick the starting XI and a 9-player bench. Stamina matters, so rotate your squad across a long season.\n\n🌱 DEVELOP YOUNG STARS\nGive every player a development plan, pair youngsters with veteran mentors and watch breakthroughs happen. Match minutes, mood and fitness all shape how fast they grow.\n\n🧑‍💼 HIRE THE HEAD COACH\nNegotiate the coach's contract, set the season target and keep the board confident. If results do not come, the decision is yours.\n\n💰 TRANSFERS AND CONTRACTS\nBuy and sell in the summer and January transfer windows, haggle over fees, renew contracts before your stars leave on a free and scout the next wonderkid.\n\n🏆 CUPS, RIVALS AND PROMOTION\nWin the national cup, qualify for the continental cup, beat your derby rival and climb five divisions, with 3 up and 3 down every season.\n\n🌍 22 COUNTRIES, 11 LANGUAGES\nPlay in English, Arabic, Spanish, Portuguese, French, German, Japanese, Korean, Chinese, Hindi or Indonesian, with fictional clubs and players from 22 countries.\n\n📶 PLAY OFFLINE\nYour whole career works without internet. Go online for friend leagues and online cups.\n\nFREE TO PLAY, FAIR TO PLAY\nTown FC is free. Optional purchases only save time: nothing you buy decides a match, and the whole game can be finished without paying.\n\nIf you enjoy football manager, soccer manager, club chairman or tycoon games, Town FC is your next career.\n\nTown FC uses fictional clubs, players and crests. It is not affiliated with any real league, club or player.",
+    "title": "Town FC: Football Club Owner",
+    "short": "Football club owner tycoon: build your town, sign stars, win the league. Offline",
+    "full": "Own a football club and build a dynasty, from a village pitch to the Elite League.\n\nTown FC: Football Club Owner is a club owner tycoon game that puts you in the chairman's seat. Grow the town around your stadium, run the money, hire the head coach, sign players and lead your club through a full 38-matchday season in a 20-club league. Every decision shows on the pitch.\n\n⚽ WATCH EVERY MATCH LIVE\nFollow your team minute by minute on a live pitch. Make up to 5 substitutions, react to tired legs and take the key moments yourself.\n\n🏟️ BUILD YOUR TOWN AND STADIUM\nUpgrade the stadium, training ground, youth academy, medical centre, club shop, hotel, fan zone and museum. Bigger crowds, better players, more income.\n\n📋 YOUR LINEUP, YOUR TACTICS\nChoose the formation, pressing and captain, pick the starting XI and a 9-player bench. Stamina matters, so rotate your squad across a long season.\n\n🌱 DEVELOP YOUNG STARS\nGive every player a development plan, pair youngsters with veteran mentors and watch breakthroughs happen. Match minutes, mood and fitness all shape how fast they grow.\n\n🧑‍💼 HIRE THE HEAD COACH\nNegotiate the coach's contract, set the season target and keep the board confident. If results do not come, the decision is yours.\n\n💰 TRANSFERS AND CONTRACTS\nBuy and sell in the summer and January transfer windows, haggle over fees, renew contracts before your stars leave on a free and scout the next wonderkid.\n\n🏆 CUPS, RIVALS AND PROMOTION\nWin the national cup, qualify for the continental cup, beat your derby rival and climb five divisions, with 3 up and 3 down every season.\n\n🌍 22 COUNTRIES, 11 LANGUAGES\nPlay in English, Arabic, Spanish, Portuguese, French, German, Japanese, Korean, Chinese, Hindi or Indonesian, with fictional clubs and players from 22 countries.\n\n📶 PLAY OFFLINE\nYour whole career works without internet. Go online for friend leagues and online cups.\n\nFREE TO PLAY, FAIR TO PLAY\nTown FC is free. Optional purchases only save time: nothing you buy decides a match, and the whole game can be finished without paying.\n\nIf you enjoy football manager, soccer manager, club chairman or tycoon games, Town FC is your next career.\n\nTown FC uses fictional clubs, players and crests. It is not affiliated with any real league, club or player.",
     "shots": [
-      ["Own a football club", "From a village pitch to the Elite League"],
-      ["Watch every match live", "Make subs and take the key moments"],
-      ["Build your town & stadium", "9 buildings that grow crowds and income"],
-      ["Your lineup, your tactics", "Formation, pressing, captain and bench"],
-      ["Develop young stars", "Plans, veteran mentors and breakthroughs"],
-      ["Sign stars, haggle fees", "Transfer windows, contracts and wonderkids"],
-      ["Hire your head coach", "Set the target, keep the board happy"],
-      ["Win the league & cups", "20 clubs, 38 matchdays, 3 up and 3 down"]
+      [
+        "Own a football club",
+        "From a village pitch to the Elite League"
+      ],
+      [
+        "Watch every match live",
+        "Make subs and take the key moments"
+      ],
+      [
+        "Build your town & stadium",
+        "9 buildings that grow crowds and income"
+      ],
+      [
+        "Your lineup, your tactics",
+        "Formation, pressing, captain and bench"
+      ],
+      [
+        "Develop young stars",
+        "Plans, veteran mentors and breakthroughs"
+      ],
+      [
+        "Sign stars, haggle fees",
+        "Transfer windows, contracts and wonderkids"
+      ],
+      [
+        "Hire your head coach",
+        "Set the target, keep the board happy"
+      ],
+      [
+        "Win the league & cups",
+        "20 clubs, 38 matchdays, 3 up and 3 down"
+      ]
     ]
   },
   "ar": {
@@ -20,14 +44,38 @@
     "short": "امتلك نادي كرة قدم، طوّر مدينتك، ضم النجوم واربح الدوري والكؤوس. بدون إنترنت!",
     "full": "امتلك نادي كرة قدم وابنِ إمبراطورية، من ملعب قرية صغيرة إلى دوري النخبة.\n\nفي Town FC أنت مالك النادي ومديره. طوّر المدينة حول ملعبك، وأدر الأموال، وعيّن المدرب، وتعاقد مع اللاعبين، وقُد ناديك في موسم كامل من 38 جولة في دوري من 20 ناديًا. كل قرار تتخذه يظهر في الملعب.\n\n⚽ تابع كل مباراة مباشرة\nتابع فريقك دقيقة بدقيقة على ملعب حي. أجرِ حتى 5 تبديلات، وتعامل مع إرهاق اللاعبين، وتحكّم في اللحظات الحاسمة بنفسك.\n\n🏟️ ابنِ مدينتك وملعبك\nطوّر الملعب وملعب التدريب وأكاديمية الشباب والمركز الطبي ومتجر النادي والفندق ومنطقة الجماهير والمتحف. جماهير أكثر، لاعبون أفضل، ودخل أكبر.\n\n📋 تشكيلتك وخطتك\nاختر الخطة والضغط والكابتن، وحدد التشكيلة الأساسية ودكة من 9 لاعبين. اللياقة مهمة، لذا دوّر لاعبيك طوال الموسم.\n\n🌱 طوّر النجوم الصاعدين\nضع خطة تطوير لكل لاعب، واجعل اللاعبين المخضرمين يرشدون الشباب، وشاهد الطفرات تحدث. دقائق اللعب والمزاج واللياقة كلها تحدد سرعة تطورهم.\n\n🧑‍💼 عيّن المدرب\nفاوض على عقد المدرب، وحدد هدف الموسم، وحافظ على ثقة مجلس الإدارة. وإن لم تأتِ النتائج، فالقرار لك.\n\n💰 الانتقالات والعقود\nاشترِ وبع في فترتي الانتقالات الصيفية والشتوية، وفاوض على الأسعار، وجدد العقود قبل أن يرحل نجومك مجانًا، واكتشف الموهبة القادمة.\n\n🏆 الكؤوس والمنافسون والصعود\nاربح كأس البلاد، وتأهل للبطولة القارية، واهزم غريمك في الديربي، واصعد عبر خمس درجات مع صعود 3 وهبوط 3 كل موسم.\n\n🌍 22 دولة و11 لغة\nالعب بالعربية أو الإنجليزية أو الإسبانية أو البرتغالية أو الفرنسية أو الألمانية أو اليابانية أو الكورية أو الصينية أو الهندية أو الإندونيسية، مع أندية ولاعبين خياليين من 22 دولة.\n\n📶 العب بدون إنترنت\nمسيرتك كاملة تعمل بدون إنترنت. واتصل بالإنترنت لدوريات الأصدقاء والكؤوس عبر الإنترنت.\n\nمجانية وعادلة\nTown FC مجانية. المشتريات اختيارية وتوفّر الوقت فقط: لا شيء تشتريه يحدد نتيجة مباراة، ويمكنك إنهاء اللعبة كاملة دون أن تدفع.\n\nإن كنت تحب ألعاب مدير الكرة ومدرب كرة القدم ورئيس النادي وألعاب الإدارة، فإن Town FC هي مسيرتك القادمة.\n\nتستخدم Town FC أندية ولاعبين وشعارات خيالية، ولا ترتبط بأي دوري أو نادٍ أو لاعب حقيقي.",
     "shots": [
-      ["امتلك نادي كرة قدم", "من ملعب القرية إلى دوري النخبة"],
-      ["تابع كل مباراة مباشرة", "أجرِ التبديلات وتحكم في اللحظات الحاسمة"],
-      ["ابنِ مدينتك وملعبك", "9 منشآت تزيد الجماهير والدخل"],
-      ["تشكيلتك وخطتك", "الخطة والضغط والكابتن ودكة البدلاء"],
-      ["طوّر النجوم الصاعدين", "خطط تطوير ومرشدون مخضرمون وطفرات"],
-      ["ضم النجوم وفاوض", "فترات الانتقالات والعقود والمواهب"],
-      ["عيّن مدرب الفريق", "حدد الهدف وحافظ على ثقة الإدارة"],
-      ["اربح الدوري والكؤوس", "20 ناديًا، 38 جولة، صعود 3 وهبوط 3"]
+      [
+        "امتلك نادي كرة قدم",
+        "من ملعب القرية إلى دوري النخبة"
+      ],
+      [
+        "تابع كل مباراة مباشرة",
+        "أجرِ التبديلات وتحكم في اللحظات الحاسمة"
+      ],
+      [
+        "ابنِ مدينتك وملعبك",
+        "9 منشآت تزيد الجماهير والدخل"
+      ],
+      [
+        "تشكيلتك وخطتك",
+        "الخطة والضغط والكابتن ودكة البدلاء"
+      ],
+      [
+        "طوّر النجوم الصاعدين",
+        "خطط تطوير ومرشدون مخضرمون وطفرات"
+      ],
+      [
+        "ضم النجوم وفاوض",
+        "فترات الانتقالات والعقود والمواهب"
+      ],
+      [
+        "عيّن مدرب الفريق",
+        "حدد الهدف وحافظ على ثقة الإدارة"
+      ],
+      [
+        "اربح الدوري والكؤوس",
+        "20 ناديًا، 38 جولة، صعود 3 وهبوط 3"
+      ]
     ]
   },
   "es": {
@@ -35,14 +83,38 @@
     "short": "Sé dueño de un club de fútbol: crea tu ciudad, ficha estrellas y gana la liga.",
     "full": "Sé el dueño de un club de fútbol y crea una dinastía, desde un campo de pueblo hasta la Liga Élite.\n\nEn Town FC: Gestor de Fútbol te sientas en el sillón del presidente. Haz crecer la ciudad alrededor de tu estadio, controla el dinero, contrata al entrenador, ficha jugadores y lleva a tu club por una temporada completa de 38 jornadas en una liga de 20 equipos. Cada decisión se nota en el campo.\n\n⚽ VIVE CADA PARTIDO EN DIRECTO\nSigue a tu equipo minuto a minuto en un campo en vivo. Haz hasta 5 cambios, reacciona al cansancio y decide tú los momentos clave.\n\n🏟️ CONSTRUYE TU CIUDAD Y TU ESTADIO\nMejora el estadio, el campo de entrenamiento, la cantera, el centro médico, la tienda, el hotel, la zona de aficionados y el museo. Más público, mejores jugadores y más ingresos.\n\n📋 TU ALINEACIÓN, TU TÁCTICA\nElige la formación, la presión y el capitán, el once inicial y un banquillo de 9. La resistencia importa: rota la plantilla en una temporada larga.\n\n🌱 DESARROLLA JÓVENES ESTRELLAS\nDa a cada jugador un plan de desarrollo, asigna mentores veteranos a los jóvenes y vive sus saltos de calidad. Los minutos, el ánimo y la forma física marcan su progreso.\n\n🧑‍💼 CONTRATA AL ENTRENADOR\nNegocia su contrato, fija el objetivo de la temporada y mantén la confianza de la directiva. Si no llegan los resultados, tú decides.\n\n💰 FICHAJES Y CONTRATOS\nCompra y vende en los mercados de verano e invierno, regatea los traspasos, renueva antes de que tus estrellas se vayan gratis y descubre al próximo crack.\n\n🏆 COPAS, RIVALES Y ASCENSOS\nGana la copa nacional, clasifícate para la copa continental, vence en el derbi y asciende cinco divisiones, con 3 ascensos y 3 descensos cada temporada.\n\n🌍 22 PAÍSES, 11 IDIOMAS\nJuega en español, inglés, árabe, portugués, francés, alemán, japonés, coreano, chino, hindi o indonesio, con clubes y jugadores ficticios de 22 países.\n\n📶 JUEGA SIN CONEXIÓN\nToda tu carrera funciona sin internet. Conéctate para ligas con amigos y copas online.\n\nGRATIS Y JUSTO\nTown FC es gratis. Las compras opcionales solo ahorran tiempo: nada de lo que compres decide un partido y puedes terminar el juego sin pagar.\n\nSi te gustan los juegos de manager de fútbol, gestión de clubes, presidente o tycoon, Town FC es tu próxima carrera.\n\nTown FC usa clubes, jugadores y escudos ficticios. No está afiliado a ninguna liga, club o jugador real.",
     "shots": [
-      ["Sé dueño de un club", "Del campo del pueblo a la Liga Élite"],
-      ["Vive cada partido en directo", "Haz cambios y decide los momentos clave"],
-      ["Construye ciudad y estadio", "9 edificios que atraen público e ingresos"],
-      ["Tu alineación, tu táctica", "Formación, presión, capitán y banquillo"],
-      ["Desarrolla jóvenes estrellas", "Planes, mentores veteranos y saltos de calidad"],
-      ["Ficha estrellas y regatea", "Mercados, contratos y jóvenes promesas"],
-      ["Contrata al entrenador", "Fija el objetivo y contenta a la directiva"],
-      ["Gana la liga y las copas", "20 clubes, 38 jornadas, 3 suben y 3 bajan"]
+      [
+        "Sé dueño de un club",
+        "Del campo del pueblo a la Liga Élite"
+      ],
+      [
+        "Vive cada partido en directo",
+        "Haz cambios y decide los momentos clave"
+      ],
+      [
+        "Construye ciudad y estadio",
+        "9 edificios que atraen público e ingresos"
+      ],
+      [
+        "Tu alineación, tu táctica",
+        "Formación, presión, capitán y banquillo"
+      ],
+      [
+        "Desarrolla jóvenes estrellas",
+        "Planes, mentores veteranos y saltos de calidad"
+      ],
+      [
+        "Ficha estrellas y regatea",
+        "Mercados, contratos y jóvenes promesas"
+      ],
+      [
+        "Contrata al entrenador",
+        "Fija el objetivo y contenta a la directiva"
+      ],
+      [
+        "Gana la liga y las copas",
+        "20 clubes, 38 jornadas, 3 suben y 3 bajan"
+      ]
     ]
   },
   "pt": {
@@ -50,14 +122,38 @@
     "short": "Seja dono de um clube de futebol: crie sua cidade, contrate craques e vença!",
     "full": "Seja dono de um clube de futebol e construa uma dinastia, do campo da vila até a Liga Elite.\n\nEm Town FC: Gerente de Futebol você é o dono do clube. Faça a cidade crescer ao redor do estádio, cuide do dinheiro, contrate o técnico, reforce o elenco e leve seu clube por uma temporada completa de 38 rodadas em uma liga de 20 times. Cada decisão aparece em campo.\n\n⚽ ASSISTA A CADA JOGO AO VIVO\nAcompanhe seu time minuto a minuto em um campo ao vivo. Faça até 5 substituições, reaja ao cansaço e decida os lances importantes.\n\n🏟️ CONSTRUA SUA CIDADE E SEU ESTÁDIO\nMelhore o estádio, o centro de treinamento, a base, o departamento médico, a loja, o hotel, a área da torcida e o museu. Mais público, jogadores melhores e mais receita.\n\n📋 SUA ESCALAÇÃO, SUA TÁTICA\nEscolha a formação, a pressão e o capitão, os onze titulares e um banco de 9. O fôlego importa: faça rodízio ao longo da temporada.\n\n🌱 REVELE JOVENS CRAQUES\nDê a cada jogador um plano de desenvolvimento, coloque veteranos como mentores dos jovens e veja os saltos de qualidade. Minutos em campo, humor e forma física definem a evolução.\n\n🧑‍💼 CONTRATE O TÉCNICO\nNegocie o contrato, defina a meta da temporada e mantenha a diretoria confiante. Se os resultados não vierem, a decisão é sua.\n\n💰 TRANSFERÊNCIAS E CONTRATOS\nCompre e venda nas janelas de meio e fim de ano, negocie valores, renove antes que seus craques saiam de graça e descubra a próxima joia.\n\n🏆 COPAS, RIVAIS E ACESSO\nConquiste a copa nacional, classifique-se para a copa continental, vença o clássico e suba cinco divisões, com 3 sobem e 3 caem por temporada.\n\n🌍 22 PAÍSES, 11 IDIOMAS\nJogue em português, inglês, árabe, espanhol, francês, alemão, japonês, coreano, chinês, hindi ou indonésio, com clubes e jogadores fictícios de 22 países.\n\n📶 JOGUE OFFLINE\nSua carreira inteira funciona sem internet. Fique online para ligas com amigos e copas online.\n\nGRÁTIS E JUSTO\nTown FC é grátis. Compras opcionais só economizam tempo: nada que você compra decide um jogo, e dá para terminar o jogo inteiro sem pagar.\n\nSe você gosta de jogos de gerente de futebol, técnico, presidente de clube ou tycoon, Town FC é a sua próxima carreira.\n\nTown FC usa clubes, jogadores e escudos fictícios. Não tem ligação com nenhuma liga, clube ou jogador real.",
     "shots": [
-      ["Seja dono de um clube", "Do campo da vila até a Liga Elite"],
-      ["Cada jogo ao vivo", "Faça substituições e decida os lances"],
-      ["Construa cidade e estádio", "9 prédios que trazem torcida e receita"],
-      ["Sua escalação, sua tática", "Formação, pressão, capitão e banco"],
-      ["Revele jovens craques", "Planos, mentores veteranos e saltos"],
-      ["Contrate craques", "Janelas, contratos e jovens joias"],
-      ["Contrate o técnico", "Defina a meta e agrade a diretoria"],
-      ["Vença a liga e as copas", "20 clubes, 38 rodadas, 3 sobem e 3 caem"]
+      [
+        "Seja dono de um clube",
+        "Do campo da vila até a Liga Elite"
+      ],
+      [
+        "Cada jogo ao vivo",
+        "Faça substituições e decida os lances"
+      ],
+      [
+        "Construa cidade e estádio",
+        "9 prédios que trazem torcida e receita"
+      ],
+      [
+        "Sua escalação, sua tática",
+        "Formação, pressão, capitão e banco"
+      ],
+      [
+        "Revele jovens craques",
+        "Planos, mentores veteranos e saltos"
+      ],
+      [
+        "Contrate craques",
+        "Janelas, contratos e jovens joias"
+      ],
+      [
+        "Contrate o técnico",
+        "Defina a meta e agrade a diretoria"
+      ],
+      [
+        "Vença a liga e as copas",
+        "20 clubes, 38 rodadas, 3 sobem e 3 caem"
+      ]
     ]
   },
   "fr": {
@@ -65,14 +161,38 @@
     "short": "Devenez propriétaire d'un club de foot : bâtissez la ville, recrutez, gagnez !",
     "full": "Devenez propriétaire d'un club de football et bâtissez une dynastie, du terrain de village à la Ligue Élite.\n\nDans Town FC: Gérant de Football, vous êtes le président. Développez la ville autour du stade, gérez l'argent, engagez l'entraîneur, recrutez des joueurs et menez votre club sur une saison complète de 38 journées dans un championnat à 20 clubs. Chaque décision se voit sur le terrain.\n\n⚽ CHAQUE MATCH EN DIRECT\nSuivez votre équipe minute par minute sur un terrain en direct. Faites jusqu'à 5 changements, gérez la fatigue et prenez en main les moments clés.\n\n🏟️ BÂTISSEZ LA VILLE ET LE STADE\nAméliorez le stade, le centre d'entraînement, le centre de formation, le centre médical, la boutique, l'hôtel, la fan zone et le musée. Plus de public, de meilleurs joueurs, plus de revenus.\n\n📋 VOTRE COMPO, VOTRE TACTIQUE\nChoisissez le système, le pressing et le capitaine, le onze de départ et un banc de 9. L'endurance compte : faites tourner l'effectif sur une longue saison.\n\n🌱 FAITES ÉCLORE DES PÉPITES\nDonnez à chaque joueur un plan de progression, confiez les jeunes à des vétérans mentors et vivez leurs déclics. Temps de jeu, moral et forme décident de leur progression.\n\n🧑‍💼 ENGAGEZ L'ENTRAÎNEUR\nNégociez son contrat, fixez l'objectif de la saison et gardez la confiance du conseil. Si les résultats ne viennent pas, à vous de décider.\n\n💰 TRANSFERTS ET CONTRATS\nAchetez et vendez lors des mercatos d'été et d'hiver, négociez les montants, prolongez avant que vos stars partent libres et dénichez la prochaine pépite.\n\n🏆 COUPES, RIVAUX ET MONTÉES\nGagnez la coupe nationale, qualifiez-vous pour la coupe continentale, battez votre rival au derby et grimpez cinq divisions, avec 3 montées et 3 descentes par saison.\n\n🌍 22 PAYS, 11 LANGUES\nJouez en français, anglais, arabe, espagnol, portugais, allemand, japonais, coréen, chinois, hindi ou indonésien, avec des clubs et joueurs fictifs de 22 pays.\n\n📶 JOUEZ HORS LIGNE\nToute votre carrière fonctionne sans internet. Passez en ligne pour les ligues entre amis et les coupes en ligne.\n\nGRATUIT ET ÉQUITABLE\nTown FC est gratuit. Les achats facultatifs font seulement gagner du temps : rien de ce que vous achetez ne décide d'un match, et tout le jeu peut être terminé sans payer.\n\nSi vous aimez les jeux de manager de football, de gestion de club, de président ou de tycoon, Town FC est votre prochaine carrière.\n\nTown FC utilise des clubs, joueurs et blasons fictifs. Il n'est affilié à aucun championnat, club ou joueur réel.",
     "shots": [
-      ["Possédez un club de foot", "Du terrain de village à la Ligue Élite"],
-      ["Chaque match en direct", "Changements et moments clés en main"],
-      ["Bâtissez ville et stade", "9 bâtiments pour le public et les revenus"],
-      ["Votre compo, votre tactique", "Système, pressing, capitaine et banc"],
-      ["Faites éclore des pépites", "Plans, vétérans mentors et déclics"],
-      ["Recrutez et négociez", "Mercatos, contrats et jeunes talents"],
-      ["Engagez l'entraîneur", "Fixez l'objectif, rassurez le conseil"],
-      ["Gagnez ligue et coupes", "20 clubs, 38 journées, 3 montées, 3 descentes"]
+      [
+        "Possédez un club de foot",
+        "Du terrain de village à la Ligue Élite"
+      ],
+      [
+        "Chaque match en direct",
+        "Changements et moments clés en main"
+      ],
+      [
+        "Bâtissez ville et stade",
+        "9 bâtiments pour le public et les revenus"
+      ],
+      [
+        "Votre compo, votre tactique",
+        "Système, pressing, capitaine et banc"
+      ],
+      [
+        "Faites éclore des pépites",
+        "Plans, vétérans mentors et déclics"
+      ],
+      [
+        "Recrutez et négociez",
+        "Mercatos, contrats et jeunes talents"
+      ],
+      [
+        "Engagez l'entraîneur",
+        "Fixez l'objectif, rassurez le conseil"
+      ],
+      [
+        "Gagnez ligue et coupes",
+        "20 clubs, 38 journées, 3 montées, 3 descentes"
+      ]
     ]
   },
   "de": {
@@ -80,14 +200,38 @@
     "short": "Besitze einen Fußballverein: baue deine Stadt, hole Stars, werde Meister!",
     "full": "Besitze einen Fußballverein und baue eine Dynastie auf, vom Dorfplatz bis in die Elite-Liga.\n\nIn Town FC: Fußball-Manager bist du der Vereinsboss. Lass die Stadt rund um dein Stadion wachsen, verwalte das Geld, stelle den Cheftrainer ein, verpflichte Spieler und führe deinen Verein durch eine ganze Saison mit 38 Spieltagen in einer Liga mit 20 Vereinen. Jede Entscheidung zeigt sich auf dem Platz.\n\n⚽ JEDES SPIEL LIVE\nVerfolge dein Team Minute für Minute auf einem Live-Spielfeld. Wechsle bis zu 5 Mal, reagiere auf müde Beine und entscheide die Schlüsselmomente selbst.\n\n🏟️ BAUE STADT UND STADION\nBaue Stadion, Trainingsgelände, Jugendakademie, Medizinzentrum, Fanshop, Hotel, Fanzone und Museum aus. Mehr Zuschauer, bessere Spieler, mehr Einnahmen.\n\n📋 DEINE AUFSTELLUNG, DEINE TAKTIK\nWähle Formation, Pressing und Kapitän, die Startelf und eine Bank mit 9 Spielern. Ausdauer zählt: rotiere über die lange Saison.\n\n🌱 ENTWICKLE JUNGE STARS\nGib jedem Spieler einen Entwicklungsplan, stelle den Talenten erfahrene Mentoren zur Seite und erlebe ihren Durchbruch. Spielminuten, Stimmung und Fitness bestimmen, wie schnell sie wachsen.\n\n🧑‍💼 STELLE DEN CHEFTRAINER EIN\nVerhandle seinen Vertrag, setze das Saisonziel und halte den Vorstand bei Laune. Bleiben die Ergebnisse aus, entscheidest du.\n\n💰 TRANSFERS UND VERTRÄGE\nKaufe und verkaufe im Sommer- und Wintertransferfenster, feilsche um Ablösen, verlängere Verträge, bevor deine Stars ablösefrei gehen, und finde das nächste Wunderkind.\n\n🏆 POKALE, RIVALEN UND AUFSTIEG\nGewinne den nationalen Pokal, qualifiziere dich für den Kontinentalpokal, schlage deinen Derby-Rivalen und steige durch fünf Ligen auf, mit 3 Auf- und 3 Absteigern pro Saison.\n\n🌍 22 LÄNDER, 11 SPRACHEN\nSpiele auf Deutsch, Englisch, Arabisch, Spanisch, Portugiesisch, Französisch, Japanisch, Koreanisch, Chinesisch, Hindi oder Indonesisch, mit fiktiven Vereinen und Spielern aus 22 Ländern.\n\n📶 OFFLINE SPIELEN\nDeine ganze Karriere läuft ohne Internet. Online warten Freundesligen und Online-Pokale.\n\nKOSTENLOS UND FAIR\nTown FC ist kostenlos. Optionale Käufe sparen nur Zeit: Nichts, was du kaufst, entscheidet ein Spiel, und das ganze Spiel ist ohne Bezahlen schaffbar.\n\nWenn du Fußballmanager-, Vereinsmanager-, Präsidenten- oder Tycoon-Spiele magst, ist Town FC deine nächste Karriere.\n\nTown FC verwendet fiktive Vereine, Spieler und Wappen. Es ist mit keiner echten Liga, keinem Verein und keinem Spieler verbunden.",
     "shots": [
-      ["Besitze einen Fußballverein", "Vom Dorfplatz bis in die Elite-Liga"],
-      ["Jedes Spiel live", "Wechsle und entscheide die Schlüsselmomente"],
-      ["Baue Stadt und Stadion", "9 Gebäude für Zuschauer und Einnahmen"],
-      ["Deine Aufstellung, deine Taktik", "Formation, Pressing, Kapitän und Bank"],
-      ["Entwickle junge Stars", "Pläne, Mentoren und Durchbrüche"],
-      ["Hole Stars, feilsche", "Transferfenster, Verträge und Talente"],
-      ["Stelle den Cheftrainer ein", "Setze Ziele, halte den Vorstand bei Laune"],
-      ["Werde Meister und Pokalsieger", "20 Vereine, 38 Spieltage, 3 rauf, 3 runter"]
+      [
+        "Besitze einen Fußballverein",
+        "Vom Dorfplatz bis in die Elite-Liga"
+      ],
+      [
+        "Jedes Spiel live",
+        "Wechsle und entscheide die Schlüsselmomente"
+      ],
+      [
+        "Baue Stadt und Stadion",
+        "9 Gebäude für Zuschauer und Einnahmen"
+      ],
+      [
+        "Deine Aufstellung, deine Taktik",
+        "Formation, Pressing, Kapitän und Bank"
+      ],
+      [
+        "Entwickle junge Stars",
+        "Pläne, Mentoren und Durchbrüche"
+      ],
+      [
+        "Hole Stars, feilsche",
+        "Transferfenster, Verträge und Talente"
+      ],
+      [
+        "Stelle den Cheftrainer ein",
+        "Setze Ziele, halte den Vorstand bei Laune"
+      ],
+      [
+        "Werde Meister und Pokalsieger",
+        "20 Vereine, 38 Spieltage, 3 rauf, 3 runter"
+      ]
     ]
   },
   "id": {
@@ -95,14 +239,38 @@
     "short": "Miliki klub sepak bola: bangun kotamu, rekrut bintang dan juarai liga. Offline!",
     "full": "Miliki klub sepak bola dan bangun dinasti, dari lapangan desa hingga Liga Elite.\n\nDi Town FC: Manajer Sepak Bola kamu adalah pemilik klub. Kembangkan kota di sekitar stadion, atur keuangan, rekrut pelatih kepala, datangkan pemain dan pimpin klubmu melewati musim penuh 38 pekan di liga berisi 20 klub. Setiap keputusan terlihat di lapangan.\n\n⚽ TONTON SETIAP LAGA SECARA LIVE\nIkuti timmu menit demi menit di lapangan live. Lakukan hingga 5 pergantian, atasi pemain yang lelah dan ambil momen penting sendiri.\n\n🏟️ BANGUN KOTA DAN STADION\nTingkatkan stadion, tempat latihan, akademi muda, pusat medis, toko klub, hotel, zona suporter dan museum. Penonton lebih banyak, pemain lebih bagus, pemasukan lebih besar.\n\n📋 SUSUNAN PEMAIN DAN TAKTIKMU\nPilih formasi, pressing dan kapten, starting XI dan bangku cadangan 9 pemain. Stamina penting, jadi rotasi skuad sepanjang musim.\n\n🌱 KEMBANGKAN BINTANG MUDA\nBeri setiap pemain rencana pengembangan, pasangkan pemain muda dengan mentor veteran dan saksikan terobosan mereka. Menit bermain, suasana hati dan kebugaran menentukan perkembangannya.\n\n🧑‍💼 REKRUT PELATIH KEPALA\nNegosiasikan kontrak pelatih, tetapkan target musim dan jaga kepercayaan dewan. Kalau hasil tak kunjung datang, keputusan ada di tanganmu.\n\n💰 TRANSFER DAN KONTRAK\nBeli dan jual di bursa transfer musim panas dan Januari, tawar harga, perpanjang kontrak sebelum bintangmu pergi gratis dan temukan wonderkid berikutnya.\n\n🏆 PIALA, RIVAL DAN PROMOSI\nJuarai piala nasional, lolos ke piala kontinental, kalahkan rival derbi dan naik lima divisi, dengan 3 promosi dan 3 degradasi tiap musim.\n\n🌍 22 NEGARA, 11 BAHASA\nMain dalam bahasa Indonesia, Inggris, Arab, Spanyol, Portugis, Prancis, Jerman, Jepang, Korea, Mandarin atau Hindi, dengan klub dan pemain fiktif dari 22 negara.\n\n📶 MAIN OFFLINE\nSeluruh karier berjalan tanpa internet. Online untuk liga bersama teman dan piala online.\n\nGRATIS DAN ADIL\nTown FC gratis. Pembelian opsional hanya menghemat waktu: tidak ada yang kamu beli yang menentukan hasil laga, dan seluruh game bisa diselesaikan tanpa bayar.\n\nKalau kamu suka game manajer sepak bola, manajer klub, presiden klub atau tycoon, Town FC adalah karier berikutnya.\n\nTown FC memakai klub, pemain dan logo fiktif. Tidak berafiliasi dengan liga, klub atau pemain sungguhan.",
     "shots": [
-      ["Miliki klub sepak bola", "Dari lapangan desa ke Liga Elite"],
-      ["Tonton setiap laga live", "Lakukan pergantian dan momen penting"],
-      ["Bangun kota dan stadion", "9 bangunan penambah penonton dan uang"],
-      ["Susunan dan taktikmu", "Formasi, pressing, kapten dan cadangan"],
-      ["Kembangkan bintang muda", "Rencana, mentor veteran dan terobosan"],
-      ["Rekrut bintang, tawar harga", "Bursa transfer, kontrak dan wonderkid"],
-      ["Rekrut pelatih kepala", "Tetapkan target, jaga kepercayaan dewan"],
-      ["Juarai liga dan piala", "20 klub, 38 pekan, 3 naik dan 3 turun"]
+      [
+        "Miliki klub sepak bola",
+        "Dari lapangan desa ke Liga Elite"
+      ],
+      [
+        "Tonton setiap laga live",
+        "Lakukan pergantian dan momen penting"
+      ],
+      [
+        "Bangun kota dan stadion",
+        "9 bangunan penambah penonton dan uang"
+      ],
+      [
+        "Susunan dan taktikmu",
+        "Formasi, pressing, kapten dan cadangan"
+      ],
+      [
+        "Kembangkan bintang muda",
+        "Rencana, mentor veteran dan terobosan"
+      ],
+      [
+        "Rekrut bintang, tawar harga",
+        "Bursa transfer, kontrak dan wonderkid"
+      ],
+      [
+        "Rekrut pelatih kepala",
+        "Tetapkan target, jaga kepercayaan dewan"
+      ],
+      [
+        "Juarai liga dan piala",
+        "20 klub, 38 pekan, 3 naik dan 3 turun"
+      ]
     ]
   },
   "hi": {
@@ -110,14 +278,38 @@
     "short": "फुटबॉल क्लब के मालिक बनें: शहर बनाएँ, स्टार खरीदें, लीग जीतें। ऑफ़लाइन खेलें!",
     "full": "फुटबॉल क्लब के मालिक बनें और गाँव के मैदान से एलीट लीग तक अपना साम्राज्य बनाएँ।\n\nTown FC: फुटबॉल क्लब टाइकून में आप क्लब के मालिक हैं। स्टेडियम के आसपास शहर बढ़ाएँ, पैसों का हिसाब रखें, हेड कोच नियुक्त करें, खिलाड़ी खरीदें और 20 क्लबों की लीग में 38 मैचडे का पूरा सीज़न खेलें। हर फ़ैसला मैदान पर दिखता है।\n\n⚽ हर मैच लाइव देखें\nलाइव पिच पर अपनी टीम को मिनट दर मिनट देखें। 5 तक सब्स्टीट्यूशन करें, थके खिलाड़ियों को संभालें और अहम पल ख़ुद तय करें।\n\n🏟️ अपना शहर और स्टेडियम बनाएँ\nस्टेडियम, ट्रेनिंग ग्राउंड, यूथ अकादमी, मेडिकल सेंटर, क्लब शॉप, होटल, फ़ैन ज़ोन और म्यूज़ियम अपग्रेड करें। ज़्यादा दर्शक, बेहतर खिलाड़ी, ज़्यादा कमाई।\n\n📋 आपकी टीम, आपकी रणनीति\nफ़ॉर्मेशन, प्रेसिंग और कप्तान चुनें, प्लेइंग XI और 9 खिलाड़ियों की बेंच तय करें। स्टैमिना मायने रखता है, इसलिए लंबे सीज़न में रोटेशन करें।\n\n🌱 युवा सितारे तैयार करें\nहर खिलाड़ी को डेवलपमेंट प्लान दें, युवाओं को अनुभवी मेंटर दें और उनकी बड़ी छलांग देखें। खेलने के मिनट, मूड और फ़िटनेस उनकी प्रगति तय करते हैं।\n\n🧑‍💼 हेड कोच नियुक्त करें\nकोच के कॉन्ट्रैक्ट पर मोलभाव करें, सीज़न का लक्ष्य तय करें और बोर्ड का भरोसा बनाए रखें। नतीजे न आएँ तो फ़ैसला आपका।\n\n💰 ट्रांसफ़र और कॉन्ट्रैक्ट\nगर्मी और जनवरी की ट्रांसफ़र विंडो में खरीदें-बेचें, कीमत पर मोलभाव करें, सितारों के मुफ़्त जाने से पहले कॉन्ट्रैक्ट बढ़ाएँ और अगला वंडरकिड खोजें।\n\n🏆 कप, प्रतिद्वंद्वी और प्रमोशन\nराष्ट्रीय कप जीतें, महाद्वीपीय कप के लिए क्वालिफ़ाई करें, डर्बी में प्रतिद्वंद्वी को हराएँ और पाँच डिवीज़न ऊपर चढ़ें, हर सीज़न 3 ऊपर और 3 नीचे।\n\n🌍 22 देश, 11 भाषाएँ\nहिंदी, अंग्रेज़ी, अरबी, स्पेनिश, पुर्तगाली, फ़्रेंच, जर्मन, जापानी, कोरियाई, चीनी या इंडोनेशियाई में खेलें, 22 देशों के काल्पनिक क्लबों और खिलाड़ियों के साथ।\n\n📶 ऑफ़लाइन खेलें\nआपका पूरा करियर बिना इंटरनेट के चलता है। दोस्तों की लीग और ऑनलाइन कप के लिए ऑनलाइन जाएँ।\n\nमुफ़्त और निष्पक्ष\nTown FC मुफ़्त है। वैकल्पिक खरीदारी सिर्फ़ समय बचाती है: कुछ भी ख़रीदकर मैच का नतीजा तय नहीं होता, और पूरा गेम बिना पैसे दिए खत्म किया जा सकता है।\n\nअगर आपको फुटबॉल मैनेजर, सॉकर मैनेजर, क्लब चेयरमैन या टाइकून गेम पसंद हैं, तो Town FC आपका अगला करियर है।\n\nTown FC काल्पनिक क्लबों, खिलाड़ियों और बैज का उपयोग करता है। इसका किसी असली लीग, क्लब या खिलाड़ी से कोई संबंध नहीं है।",
     "shots": [
-      ["फुटबॉल क्लब के मालिक बनें", "गाँव के मैदान से एलीट लीग तक"],
-      ["हर मैच लाइव देखें", "सब्स्टीट्यूशन करें, अहम पल तय करें"],
-      ["शहर और स्टेडियम बनाएँ", "9 इमारतें: ज़्यादा दर्शक, ज़्यादा कमाई"],
-      ["आपकी टीम, आपकी रणनीति", "फ़ॉर्मेशन, प्रेसिंग, कप्तान और बेंच"],
-      ["युवा सितारे तैयार करें", "प्लान, अनुभवी मेंटर और बड़ी छलांग"],
-      ["स्टार खरीदें, मोलभाव करें", "ट्रांसफ़र विंडो, कॉन्ट्रैक्ट, वंडरकिड"],
-      ["हेड कोच नियुक्त करें", "लक्ष्य तय करें, बोर्ड को खुश रखें"],
-      ["लीग और कप जीतें", "20 क्लब, 38 मैचडे, 3 ऊपर 3 नीचे"]
+      [
+        "फुटबॉल क्लब के मालिक बनें",
+        "गाँव के मैदान से एलीट लीग तक"
+      ],
+      [
+        "हर मैच लाइव देखें",
+        "सब्स्टीट्यूशन करें, अहम पल तय करें"
+      ],
+      [
+        "शहर और स्टेडियम बनाएँ",
+        "9 इमारतें: ज़्यादा दर्शक, ज़्यादा कमाई"
+      ],
+      [
+        "आपकी टीम, आपकी रणनीति",
+        "फ़ॉर्मेशन, प्रेसिंग, कप्तान और बेंच"
+      ],
+      [
+        "युवा सितारे तैयार करें",
+        "प्लान, अनुभवी मेंटर और बड़ी छलांग"
+      ],
+      [
+        "स्टार खरीदें, मोलभाव करें",
+        "ट्रांसफ़र विंडो, कॉन्ट्रैक्ट, वंडरकिड"
+      ],
+      [
+        "हेड कोच नियुक्त करें",
+        "लक्ष्य तय करें, बोर्ड को खुश रखें"
+      ],
+      [
+        "लीग और कप जीतें",
+        "20 क्लब, 38 मैचडे, 3 ऊपर 3 नीचे"
+      ]
     ]
   },
   "ja": {
@@ -125,14 +317,38 @@
     "short": "サッカークラブのオーナーに！街を育て、スターを獲得してリーグ優勝。オフライン対応。",
     "full": "サッカークラブのオーナーになって、村のグラウンドからエリートリーグまで王朝を築こう。\n\nTown FC: サッカークラブ経営では、あなたがクラブのオーナー。スタジアムの周りの街を育て、資金を管理し、監督を雇い、選手を獲得して、20クラブ・全38節のシーズンを戦い抜こう。すべての決断がピッチに表れます。\n\n⚽ すべての試合をライブで\nライブピッチでチームを1分ごとに見守ろう。最大5人の交代、疲れた選手への対応、勝負どころの判断もあなた次第。\n\n🏟️ 街とスタジアムを育てる\nスタジアム、練習場、ユースアカデミー、メディカルセンター、クラブショップ、ホテル、ファンゾーン、ミュージアムを強化。観客も選手も収入も増えていきます。\n\n📋 あなたのスタメン、あなたの戦術\nフォーメーション、プレス、キャプテン、先発11人とベンチ9人を選ぼう。スタミナが重要なので、長いシーズンはローテーションで乗り切ろう。\n\n🌱 若手スターを育てる\n選手ごとに育成プランを設定し、若手にはベテランのメンターをつけて覚醒を見届けよう。出場時間、気分、コンディションが成長のスピードを左右します。\n\n🧑‍💼 監督を雇う\n監督と契約交渉し、シーズン目標を決め、理事会の信頼を保とう。結果が出なければ、決断はあなたに。\n\n💰 移籍と契約\n夏と冬の移籍市場で売買し、移籍金を交渉し、スターがフリーで去る前に契約を延長し、次の逸材を発掘しよう。\n\n🏆 カップ戦、ライバル、昇格\n国内カップを制し、大陸カップに出場し、ダービーでライバルを倒し、毎シーズン3昇格・3降格の5部リーグを駆け上がろう。\n\n🌍 22か国、11言語\n日本語、英語、アラビア語、スペイン語、ポルトガル語、フランス語、ドイツ語、韓国語、中国語、ヒンディー語、インドネシア語に対応。22か国の架空のクラブと選手が登場します。\n\n📶 オフラインで遊べる\nキャリアはすべてインターネットなしで楽しめます。オンラインではフレンドリーグやオンラインカップも。\n\n無料でフェア\nTown FCは基本無料。課金は時間短縮のためだけで、試合結果を買うことはできません。課金なしで最後まで遊べます。\n\nサッカー監督ゲーム、クラブ経営ゲーム、会長ゲーム、タイクーンゲームが好きなら、Town FCが次のキャリアです。\n\nTown FCに登場するクラブ、選手、エンブレムはすべて架空のものです。実在のリーグ、クラブ、選手とは関係ありません。",
     "shots": [
-      ["サッカークラブのオーナーに", "村のグラウンドからエリートリーグへ"],
-      ["すべての試合をライブで", "選手交代も勝負どころもあなた次第"],
-      ["街とスタジアムを育てる", "観客と収入を増やす9つの施設"],
-      ["スタメンも戦術も自由に", "フォーメーション、プレス、キャプテン"],
-      ["若手スターを育てる", "育成プラン、ベテランのメンター、覚醒"],
-      ["スターを獲得・交渉", "移籍市場、契約、未来の逸材"],
-      ["監督を雇う", "目標を決めて理事会の信頼を保とう"],
-      ["リーグとカップを制覇", "20クラブ、全38節、3昇格3降格"]
+      [
+        "サッカークラブのオーナーに",
+        "村のグラウンドからエリートリーグへ"
+      ],
+      [
+        "すべての試合をライブで",
+        "選手交代も勝負どころもあなた次第"
+      ],
+      [
+        "街とスタジアムを育てる",
+        "観客と収入を増やす9つの施設"
+      ],
+      [
+        "スタメンも戦術も自由に",
+        "フォーメーション、プレス、キャプテン"
+      ],
+      [
+        "若手スターを育てる",
+        "育成プラン、ベテランのメンター、覚醒"
+      ],
+      [
+        "スターを獲得・交渉",
+        "移籍市場、契約、未来の逸材"
+      ],
+      [
+        "監督を雇う",
+        "目標を決めて理事会の信頼を保とう"
+      ],
+      [
+        "リーグとカップを制覇",
+        "20クラブ、全38節、3昇格3降格"
+      ]
     ]
   },
   "ko": {
@@ -140,14 +356,38 @@
     "short": "축구 구단주가 되어 도시를 키우고 스타를 영입해 리그 우승! 오프라인 플레이 가능.",
     "full": "축구 구단주가 되어 동네 운동장에서 엘리트 리그까지 왕조를 세우세요.\n\nTown FC: 축구 구단주 타이쿤에서 당신은 구단주입니다. 경기장 주변의 도시를 키우고, 자금을 관리하고, 감독을 고용하고, 선수를 영입해 20개 구단, 38라운드의 시즌을 이끌어 보세요. 모든 결정이 경기장에 드러납니다.\n\n⚽ 모든 경기를 라이브로\n라이브 피치에서 팀을 1분 단위로 지켜보세요. 최대 5명 교체, 지친 선수 관리, 결정적인 순간도 직접 선택합니다.\n\n🏟️ 도시와 경기장 건설\n경기장, 훈련장, 유소년 아카데미, 메디컬 센터, 구단 상점, 호텔, 팬 존, 박물관을 업그레이드하세요. 더 많은 관중, 더 좋은 선수, 더 큰 수입.\n\n📋 나만의 라인업과 전술\n포메이션, 압박, 주장, 선발 11명과 교체 명단 9명을 정하세요. 체력이 중요하니 긴 시즌 동안 로테이션하세요.\n\n🌱 유망주 육성\n선수마다 육성 계획을 세우고, 어린 선수에게 베테랑 멘토를 붙여 도약하는 순간을 지켜보세요. 출전 시간, 기분, 컨디션이 성장 속도를 좌우합니다.\n\n🧑‍💼 감독 고용\n감독과 계약을 협상하고, 시즌 목표를 정하고, 이사회의 신뢰를 지키세요. 성적이 나오지 않으면 결정은 당신의 몫입니다.\n\n💰 이적과 계약\n여름과 겨울 이적 시장에서 사고팔고, 이적료를 흥정하고, 스타가 자유계약으로 떠나기 전에 재계약하고, 다음 원더키드를 찾으세요.\n\n🏆 컵 대회, 라이벌, 승격\n국내 컵을 우승하고, 대륙 컵에 진출하고, 더비 라이벌을 꺾고, 매 시즌 3팀 승격·3팀 강등의 5개 리그를 올라가세요.\n\n🌍 22개국, 11개 언어\n한국어, 영어, 아랍어, 스페인어, 포르투갈어, 프랑스어, 독일어, 일본어, 중국어, 힌디어, 인도네시아어로 플레이하세요. 22개국의 가상 구단과 선수가 등장합니다.\n\n📶 오프라인 플레이\n커리어 전체를 인터넷 없이 즐길 수 있습니다. 온라인에서는 친구 리그와 온라인 컵에 참가하세요.\n\n무료, 그리고 공정하게\nTown FC는 무료입니다. 선택 구매는 시간만 절약해 줄 뿐, 경기 결과를 정하지 않으며 결제 없이도 게임 전체를 즐길 수 있습니다.\n\n축구 감독, 축구 매니저, 구단주, 타이쿤 게임을 좋아한다면 Town FC가 당신의 다음 커리어입니다.\n\nTown FC는 가상의 구단, 선수, 엠블럼을 사용하며 실제 리그, 구단, 선수와 관련이 없습니다.",
     "shots": [
-      ["축구 구단주가 되세요", "동네 운동장에서 엘리트 리그까지"],
-      ["모든 경기를 라이브로", "선수 교체와 결정적 순간을 직접"],
-      ["도시와 경기장 건설", "관중과 수입을 늘리는 9개 시설"],
-      ["나만의 라인업과 전술", "포메이션, 압박, 주장, 교체 명단"],
-      ["유망주 육성", "육성 계획, 베테랑 멘토, 도약"],
-      ["스타 영입과 협상", "이적 시장, 계약, 원더키드"],
-      ["감독 고용", "목표를 정하고 이사회 신뢰 지키기"],
-      ["리그와 컵 우승", "20개 구단, 38라운드, 3팀 승격·강등"]
+      [
+        "축구 구단주가 되세요",
+        "동네 운동장에서 엘리트 리그까지"
+      ],
+      [
+        "모든 경기를 라이브로",
+        "선수 교체와 결정적 순간을 직접"
+      ],
+      [
+        "도시와 경기장 건설",
+        "관중과 수입을 늘리는 9개 시설"
+      ],
+      [
+        "나만의 라인업과 전술",
+        "포메이션, 압박, 주장, 교체 명단"
+      ],
+      [
+        "유망주 육성",
+        "육성 계획, 베테랑 멘토, 도약"
+      ],
+      [
+        "스타 영입과 협상",
+        "이적 시장, 계약, 원더키드"
+      ],
+      [
+        "감독 고용",
+        "목표를 정하고 이사회 신뢰 지키기"
+      ],
+      [
+        "리그와 컵 우승",
+        "20개 구단, 38라운드, 3팀 승격·강등"
+      ]
     ]
   },
   "zh": {
@@ -155,14 +395,38 @@
     "short": "成为足球俱乐部老板：建设城镇、签下球星、夺得联赛冠军。支持离线游玩！",
     "full": "成为足球俱乐部老板，从乡村球场一路打造王朝，直到精英联赛。\n\n在 Town FC: 足球俱乐部大亨中，你就是俱乐部老板。发展球场周围的城镇，掌管资金，聘请主教练，签下球员，带领球队踢完20支球队、38轮的完整赛季。每个决定都会体现在球场上。\n\n⚽ 每场比赛实时观看\n在实时球场上逐分钟关注你的球队。最多换人5次，应对体能下降，关键时刻由你决定。\n\n🏟️ 建设城镇和球场\n升级球场、训练场、青训学院、医疗中心、俱乐部商店、酒店、球迷区和博物馆。更多观众、更好的球员、更高的收入。\n\n📋 你的阵容，你的战术\n选择阵型、逼抢强度和队长，排出首发11人和9人替补席。体能很重要，漫长赛季记得轮换。\n\n🌱 培养年轻球星\n为每名球员制定培养计划，让老将担任年轻球员的导师，见证他们的突破。出场时间、情绪和体能都会影响成长速度。\n\n🧑‍💼 聘请主教练\n与主教练谈判合同，设定赛季目标，保持董事会的信任。如果成绩不理想，由你做决定。\n\n💰 转会与合同\n在夏季和冬季转会窗口买卖球员，讨价还价，在球星自由离队前续约，发掘下一位天才少年。\n\n🏆 杯赛、宿敌与升级\n赢得国内杯赛，晋级洲际杯赛，在德比中击败宿敌，在五级联赛中一路晋升，每赛季3升3降。\n\n🌍 22个国家，11种语言\n支持中文、英语、阿拉伯语、西班牙语、葡萄牙语、法语、德语、日语、韩语、印地语和印尼语，包含来自22个国家的虚构俱乐部和球员。\n\n📶 离线游玩\n整个生涯无需联网即可游玩。联网可参加好友联赛和在线杯赛。\n\n免费且公平\nTown FC 免费游玩。可选购买只为节省时间：任何购买都不能决定比赛结果，不付费也能完整通关。\n\n如果你喜欢足球经理、足球教练、俱乐部主席或大亨类游戏，Town FC 就是你的下一段生涯。\n\nTown FC 使用虚构的俱乐部、球员和队徽，与任何真实的联赛、俱乐部或球员无关。",
     "shots": [
-      ["成为足球俱乐部老板", "从乡村球场到精英联赛"],
-      ["每场比赛实时观看", "换人调整，关键时刻由你决定"],
-      ["建设城镇和球场", "9座建筑，吸引观众，增加收入"],
-      ["你的阵容，你的战术", "阵型、逼抢、队长和替补席"],
-      ["培养年轻球星", "培养计划、老将导师和突破"],
-      ["签下球星，讨价还价", "转会窗口、合同和天才少年"],
-      ["聘请主教练", "设定目标，保持董事会信任"],
-      ["赢得联赛和杯赛", "20支球队，38轮，3升3降"]
+      [
+        "成为足球俱乐部老板",
+        "从乡村球场到精英联赛"
+      ],
+      [
+        "每场比赛实时观看",
+        "换人调整，关键时刻由你决定"
+      ],
+      [
+        "建设城镇和球场",
+        "9座建筑，吸引观众，增加收入"
+      ],
+      [
+        "你的阵容，你的战术",
+        "阵型、逼抢、队长和替补席"
+      ],
+      [
+        "培养年轻球星",
+        "培养计划、老将导师和突破"
+      ],
+      [
+        "签下球星，讨价还价",
+        "转会窗口、合同和天才少年"
+      ],
+      [
+        "聘请主教练",
+        "设定目标，保持董事会信任"
+      ],
+      [
+        "赢得联赛和杯赛",
+        "20支球队，38轮，3升3降"
+      ]
     ]
   }
 }
